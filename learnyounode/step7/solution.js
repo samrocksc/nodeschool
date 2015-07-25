@@ -5,3 +5,5 @@ http.get(process.argv[2], function (response) {
 	response.on('data', console.log)
 	response.on('error', console.error)
 })
+
+//you cannot use "err" quite yet, I do not know why, ask Luis
