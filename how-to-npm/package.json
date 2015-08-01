@@ -1,0 +1,15 @@
+{
+  "name": "solutions",
+  "version": "1.0.0",
+  "description": "solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Sam C.",
+  "license": "ISC",
+  "repository": "github.com",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
